@@ -140,7 +140,7 @@ body {
 
 .mushroom-image {
     width: 40%;
-    padding: 15px;
+    
 }
 
 .description-details a {
@@ -149,6 +149,9 @@ body {
     text-transform: uppercase;
 }
 
-.container .description-details {
+.description-details {
     color: white;
+    width: 85%;
+    font-size: 18px;
+    margin: 30px 0;
 }
