@@ -4,7 +4,7 @@ Obrigado por acessar esse projeto. Foi desenvolvido pelos irmãos do canal  [DEV
 
 
 # Publicado
-https://andrebelluci.github.io/projeto-mario/details.html
+https://andrebelluci.github.io/projeto-mario
 
 # 👨🏻‍💻 Autor
 <img  style="border-radius: 50%;"  src="https://code.ifoodcorp.com.br/uploads/-/system/user/avatar/1822/avatar.png?width=90"  width="100px;"  alt=""/>
