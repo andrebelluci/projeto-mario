@@ -149,6 +149,10 @@ body {
     text-transform: uppercase;
 }
 
+.description-details a:hover {
+    color: rgb(27, 183, 255);
+}
+
 .description-details {
     color: white;
     width: 85%;
